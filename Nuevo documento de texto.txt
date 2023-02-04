@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="">
+    <title>Pagina de yostin ronald</title>
+    <link rel="icon" href="imagenes/y-letter-colorful-logo-gradient-vector-designs_343694-1188.avif">
+</head>
+
+
+<body>
+
+
+    <h1>Css prueba</h1>
+
+
+    <header>
+        <h1>Css prueba</h1>
+    </header>
+    
+    <nav>
+        <ul>
+             <li>
+                <a href="https://youtu.be/B0-0H9yc7SM">Youtube</a>
+
+                <li>
+                    <a href="https://www.roblox.com/home">Roblox</a>
+                    <li>
+                        <a href="https://www.udemy.com/course/curso-de-desarrollo-web-con-html-css-y-javascript/learn/lecture/18055357#overview">Curso de udemy</a>
+                        <li>
+                            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiE7Mbk6fn8AhV7TDABHQbrBOQQFnoECAoQAQ&url=https%3A%2F%2Fes-la.facebook.com%2F&usg=AOvVaw2k8t17LRAG2cEJiOAR1RcZ">facebook</a>
+                        </li>
+                    </li>
+                </li>
+
+             </li>
+        </ul>
+    </nav>
+
+    <section> 
+        <article class="article" >
+
+            <hr>
+
+            <br>
+
+            <h2>Titulo del articulo</h2>
+            <p>Hola bienvenido</p>
+
+            <hr>
+
+            <br>
+
+        </article>
+
+        <article class="article" >
+
+            <h2>Titulo del articulo</h2>
+            <p>Texto del articulo</p>
+
+            <hr>
+
+            <br>
+
+        </article><article class="article" >
+
+            <h2>Titulo del articulo</h2>
+            <p>Texto del articulo</p>
+
+            <hr>
+
+            <br>
+
+        </article><article class="article" >
+
+            <h2>Titulo del articulo</h2>
+            <p>Texto del articulo</p>
+
+            <hr>
+
+            <br>
+
+    </section>
+
+
+    <aside>
+        <h2>Barra lateral</h2>
+
+        <form>
+
+            <input type="text">
+
+            <input type="submit">  
+
+        </form>
+
+    </aside>
+
+    <footer>
+        Yostin ronald menjivar alfaro
+    </footer>
+
+    
+    <h2>Redes sociales</h2>
+
+    <a href="https://www.facebook.com/yostin.menjivar.50/">Redes sociales</a>
+    <hr>
+
+    <br>
+
+    <button><a href="https://www.facebook.com/yostin.menjivar.50/">facebook</a></button>
+
+    <button><a href="https://www.youtube.com/channel/UC5BZEL6dry3SDUZ49E6WvSA">youtube</a></button>
+
+    <img src="imagenes/html css jv.png" alt="150px">
+
+</body>
+
+
+
+</html>
